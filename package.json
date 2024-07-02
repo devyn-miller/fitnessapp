@@ -1,6 +1,7 @@
 {
   "name": "fitnessapp",
   "main": "expo-router/entry",
+  "scheme": "fitnessapp",
   "version": "1.0.0",
   "scripts": {
     "start": "expo start",
